@@ -1,5 +1,5 @@
 # Solutions of Java Programming MOOC Helsinki, Part I and II
-The solutions of the java programming I and II MOOC 2020 of the University of Helsinki
+Solutions of java programming I and II MOOC 2020 of the University of Helsinki
 
 Course: https://java-programming.mooc.fi/
 
